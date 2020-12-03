@@ -34,6 +34,7 @@ app.use(cors());
 
 require("./routes/yelp-fusion")(app);
 require("./routes/liveness")(app);
+require("./routes/test-routes")(app);
 
 const server = app.listen(PORT, async () => {
   console.log("server is running on port ", PORT);

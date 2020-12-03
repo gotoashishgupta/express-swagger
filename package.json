@@ -15,16 +15,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/namarsood/simpplr-yelp-fusion-service.git"
-  },
-  "author": "Namardeep Sood",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/namarsood/simpplr-yelp-fusion-service/issues"
-  },
-  "homepage": "https://github.com/namarsood/simpplr-yelp-fusion-service#readme",
-  "keywords": []
+  }
 }
